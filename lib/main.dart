@@ -233,6 +233,7 @@ class _PointCounterState extends State<PointCounter> {
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
+                  
                 ),
               ),
             ),
